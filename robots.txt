@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: ayangvtsn.github.io
+Sitemap: http://ayangvtsn.github.io/sitemap.xml
